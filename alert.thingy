@@ -1,0 +1,7 @@
+<script type="text/javascript">
+    function SendAlert(){
+        alert('Hello World');
+    }
+</script>
+
+<button onclick="SendAlert()" style="background:white;color:black;font;font-size:40px">Push for alert!</button>
