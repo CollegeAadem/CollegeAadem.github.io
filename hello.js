@@ -1,5 +1,5 @@
 function update()
 {
-    const showVar = document.getElementById("Something")
+    const showVar = document.getElementById("something")
     showVar.innerText = "Hello World!"
 }
